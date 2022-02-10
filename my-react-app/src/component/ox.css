@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(246, 246, 141);
+    align-items: center;
+    justify-content: center;
+    color: rgb(61, 11, 224);
+}
+div{
+  padding: 10%;
+}
+input{
+    width: 5%;
+    height: 10%;
+    align-items: center;
+    text-shadow:2em ;
+   
+    font-size: xx-large;
+    color: white;
+    background-color: dodgerblue;
+}
+input:hover{
+    background-color: rgb(247, 19, 19);
+}
+input.value{
+    font-size: xx-large;
+}
